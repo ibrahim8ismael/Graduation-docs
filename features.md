@@ -10,18 +10,11 @@ The CEO section provides a full financial overview of the business performance.
 - View **Net Profit**
 - View **Total Cost**
 - View **Total Orders**
-- View **Total Orders (Last Month)**
-- Filter orders by:
-  - Date
-  - Product
-  - Customer
 - View **Average Order Value**
 - Identify **Top Performing Day** (highest number of orders)
 - **Machine Learning Forecast:**
   - Predict next year's revenue
-  - Predict expected gross profit percentage
   - Predict expected net profit
-  - Forecast based on past historical data
 
 ---
 
@@ -37,9 +30,6 @@ The Product Manager gets visibility into product performance and customer satisf
   - Customer satisfaction metrics
 - Analyze underperforming products
 - Track product trends over time
-- **Machine Learning Prediction:**
-  - Predict performance of a new product before launch
-  - Estimate customer interest and expected demand
 
 ---
 
@@ -58,10 +48,6 @@ The marketing team can track campaign performance and customer acquisition.
   - Number of **new customers** acquired from the campaign
   - Number of **existing customers** who purchased through the campaign
 - Discover which products performed best during each campaign
-- Customer demographics analytics:
-  - Gender distribution (e.g., more male or female buyers)
-  - Age groups with the highest purchase rate (e.g., 20–30, 30–40)
-  - Customer segments producing the highest ROI
 
 ---
 
