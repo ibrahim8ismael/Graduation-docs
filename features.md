@@ -15,7 +15,6 @@ Provides complete visibility into the financial health and performance of the e-
 #### B. Performance Highlights
 - **Top Performing Day:** Day with the highest number of orders.
 - **Worst Performing Day:** Day with the lowest number of orders.
-- **Profit Margin Trend:** Track changes in profit margin over time.
 - **Top Performing Category:**
   - Highest number of orders
   - Highest generated revenue
@@ -52,10 +51,8 @@ Gives full insight into product and Category performance and sales trends.
 
 #### B.  Trend Analytics
 - **Sales Trend per Category:** View monthly/weekly performance for each Category.
-- **Inventory Alerts:** Notify when stock seems low.
 
 #### C. Predictive Analytics
-- **Product Demand Forecasting:** Predict future demand to support decision-making.
 - **Product Performance Prediction:** Identify products likely to rise or fall in popularity.
 
 ---
@@ -84,11 +81,8 @@ Tracks marketing campaign performance and customer acquisition metrics.
 #### C. Customer Insights
 - **New Customers:** Number of first-time buyers during campaign.
 - **Returning Customers:** Existing customers who made purchases due to the campaign.
-- **Customer Conversion Rate:** Orders / total campaign reach (if data available).
 
 #### D. Product-Level Effectiveness
 - Best-selling products during the campaign.
-- Products with highest conversion.
-- Products most impacted by the promotion.
 
 ---
