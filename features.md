@@ -9,7 +9,6 @@ Provides complete visibility into the financial health and performance of the e-
 
 #### A. Financial Overview
 - **Total Revenue:** Sum of all completed orders within selected date range.
-- **Net Profit:** Revenue minus product costs, logistics, marketing costs, and operational expenses.
 - **Total Orders:** Count of confirmed orders.
 - **Average Order Value (AOV):** Total revenue / total orders.
 
@@ -27,7 +26,6 @@ Provides complete visibility into the financial health and performance of the e-
 
 #### C. Machine Learning Forecasts
 - **Revenue Forecast (Next 12 Months):** Time-series forecasting based on historical data.
-- **Expected Net Profit (Next 12 Months):** Calculated using forecasted revenue and predicted costs.
 
 #### D. Campaign Analytics
 - **Campaign Revenue:** Total revenue generated during the campaign.
@@ -45,11 +43,11 @@ Gives full insight into product and Category performance and sales trends.
 ### Features
 
 #### A. Product Performance Analysis
-- **Top Performing Product:**
+- **Top Performing Category:**
   - Highest number of orders
   - Highest generated revenue
   - Highest repeat purchase rate
-- **Underperforming Product:**
+- **Underperforming Category:**
   - Lowest sales volume
 
 #### B.  Trend Analytics
